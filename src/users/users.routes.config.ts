@@ -32,7 +32,7 @@ export class UserRoutes extends CommonRoutesConfig {
             .patch((req: express.Request, res: express.Response) => {
                 res.status(200).send(`PATCH requested for id ${req.params.userId}`);
             })
-            .delete((req: express.Request, res express.Response) => {
+            .delete((req: express.Request, res: express.Response) => {
                 res.status(200).send(`DELETE requested for id ${req.params.userId}`);
             });
 
