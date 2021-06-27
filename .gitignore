@@ -14,6 +14,9 @@ jspm_packages/
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+## Build
+dist/
  
 # List of TODOs
 TODO.md
