@@ -17,6 +17,9 @@ jspm_packages/
 
 ## Build
 dist/
+
+## Data
+data/
  
 # List of TODOs
 TODO.md
